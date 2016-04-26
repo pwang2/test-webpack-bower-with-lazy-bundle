@@ -1,0 +1,21 @@
+{
+  "name": "test-webpack-bower",
+  "main": "index.js",
+  "authors": [
+    "Peng Wang <pwang2@live.com>"
+  ],
+  "description": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.3",
+    "foundation": "5.5.3"
+  }
+}
